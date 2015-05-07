@@ -43,13 +43,9 @@ void solve() {
 			}
 		}
 	}
-	cout << num << endl;
+	cout << "水洼数量: " << num << endl;
 	//析构
 	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < M; j++) {
-			cout << fields[i][j];
-		}
-		cout << endl;
 		delete[] fields[i];
 	}
 	delete[] fields;
