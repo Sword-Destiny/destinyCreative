@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dfs", "dfs\dfs.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "water", "water\water.vcxproj", "{60FAAA10-9357-409B-8516-212797B694C7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maze", "maze\maze.vcxproj", "{515564D7-2F97-437D-A27E-886CCFFEEBE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -51,6 +53,10 @@ Global
 		{60FAAA10-9357-409B-8516-212797B694C7}.Debug|Win32.Build.0 = Debug|Win32
 		{60FAAA10-9357-409B-8516-212797B694C7}.Release|Win32.ActiveCfg = Release|Win32
 		{60FAAA10-9357-409B-8516-212797B694C7}.Release|Win32.Build.0 = Release|Win32
+		{515564D7-2F97-437D-A27E-886CCFFEEBE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{515564D7-2F97-437D-A27E-886CCFFEEBE2}.Debug|Win32.Build.0 = Debug|Win32
+		{515564D7-2F97-437D-A27E-886CCFFEEBE2}.Release|Win32.ActiveCfg = Release|Win32
+		{515564D7-2F97-437D-A27E-886CCFFEEBE2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
