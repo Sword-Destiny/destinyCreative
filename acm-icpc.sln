@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maze", "maze\maze.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "number_sum_prune", "number_sum_prune\number_sum_prune.vcxproj", "{0669418C-8B2B-496D-B79F-32E8F4853F73}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coin", "coin\coin.vcxproj", "{5A449089-54FA-48D1-BB7B-A03ECE40B375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -63,6 +65,10 @@ Global
 		{0669418C-8B2B-496D-B79F-32E8F4853F73}.Debug|Win32.Build.0 = Debug|Win32
 		{0669418C-8B2B-496D-B79F-32E8F4853F73}.Release|Win32.ActiveCfg = Release|Win32
 		{0669418C-8B2B-496D-B79F-32E8F4853F73}.Release|Win32.Build.0 = Release|Win32
+		{5A449089-54FA-48D1-BB7B-A03ECE40B375}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A449089-54FA-48D1-BB7B-A03ECE40B375}.Debug|Win32.Build.0 = Debug|Win32
+		{5A449089-54FA-48D1-BB7B-A03ECE40B375}.Release|Win32.ActiveCfg = Release|Win32
+		{5A449089-54FA-48D1-BB7B-A03ECE40B375}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
