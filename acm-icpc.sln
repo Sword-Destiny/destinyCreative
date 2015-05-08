@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "number_sum_prune", "number_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coin", "coin\coin.vcxproj", "{5A449089-54FA-48D1-BB7B-A03ECE40B375}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "largest_tasks", "largest_tasks\largest_tasks.vcxproj", "{8C978878-BED0-4553-A861-088BA078C811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -69,6 +71,10 @@ Global
 		{5A449089-54FA-48D1-BB7B-A03ECE40B375}.Debug|Win32.Build.0 = Debug|Win32
 		{5A449089-54FA-48D1-BB7B-A03ECE40B375}.Release|Win32.ActiveCfg = Release|Win32
 		{5A449089-54FA-48D1-BB7B-A03ECE40B375}.Release|Win32.Build.0 = Release|Win32
+		{8C978878-BED0-4553-A861-088BA078C811}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C978878-BED0-4553-A861-088BA078C811}.Debug|Win32.Build.0 = Debug|Win32
+		{8C978878-BED0-4553-A861-088BA078C811}.Release|Win32.ActiveCfg = Release|Win32
+		{8C978878-BED0-4553-A861-088BA078C811}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
