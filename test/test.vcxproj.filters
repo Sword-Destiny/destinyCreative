@@ -20,13 +20,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="headers\stack_test.h">
+    <ClInclude Include="headers\priority_queue_test.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="headers\queue_test.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="headers\priority_queue_test.h">
+    <ClInclude Include="headers\stack_test.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
