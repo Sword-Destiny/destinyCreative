@@ -12,7 +12,7 @@ int* s;
 int* t;
 #define INF 100000000
 
-/*解:(O(n^2))*/
+/*解*/
 void solve() {
 	//输入数据
 	cin >> n;

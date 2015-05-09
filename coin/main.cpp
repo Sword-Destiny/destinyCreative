@@ -11,7 +11,7 @@ int coin[6];
 int money[6] = { 1,5,10,50,100,500 };
 int A;
 
-/*解:(O(n^2))*/
+/*解*/
 void solve() {
 	//输入数据
 	cin >> A;

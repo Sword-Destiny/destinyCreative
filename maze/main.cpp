@@ -45,7 +45,7 @@ void bfs() {
 	}
 }
 
-/*解:(O(n^2))*/
+/*解*/
 void solve() {
 	//输入数据
 	cin >> N >> M;
