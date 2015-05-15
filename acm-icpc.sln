@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "smaller_str", "smaller_str\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "least_points", "least_points\least_points.vcxproj", "{3F8E7150-33C4-4527-9F9E-B5071FC5F110}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "horse_on_chessboard", "horse_on_chessboard\horse_on_chessboard.vcxproj", "{76F35DA8-6688-4A56-99DA-A1EC92459654}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -87,6 +89,10 @@ Global
 		{3F8E7150-33C4-4527-9F9E-B5071FC5F110}.Debug|Win32.Build.0 = Debug|Win32
 		{3F8E7150-33C4-4527-9F9E-B5071FC5F110}.Release|Win32.ActiveCfg = Release|Win32
 		{3F8E7150-33C4-4527-9F9E-B5071FC5F110}.Release|Win32.Build.0 = Release|Win32
+		{76F35DA8-6688-4A56-99DA-A1EC92459654}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76F35DA8-6688-4A56-99DA-A1EC92459654}.Debug|Win32.Build.0 = Debug|Win32
+		{76F35DA8-6688-4A56-99DA-A1EC92459654}.Release|Win32.ActiveCfg = Release|Win32
+		{76F35DA8-6688-4A56-99DA-A1EC92459654}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
