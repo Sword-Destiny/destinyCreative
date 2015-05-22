@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bag_problem", "bag_problem\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "longest_common_sub_sequence", "longest_common_sub_sequence\longest_common_sub_sequence.vcxproj", "{5504973E-7CBA-49A7-8541-D056A24E8EEB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "complete_bag_problem", "complete_bag_problem\complete_bag_problem.vcxproj", "{1EAB0C94-D246-48B0-8706-75214BF57C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -111,6 +113,10 @@ Global
 		{5504973E-7CBA-49A7-8541-D056A24E8EEB}.Debug|Win32.Build.0 = Debug|Win32
 		{5504973E-7CBA-49A7-8541-D056A24E8EEB}.Release|Win32.ActiveCfg = Release|Win32
 		{5504973E-7CBA-49A7-8541-D056A24E8EEB}.Release|Win32.Build.0 = Release|Win32
+		{1EAB0C94-D246-48B0-8706-75214BF57C6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1EAB0C94-D246-48B0-8706-75214BF57C6F}.Debug|Win32.Build.0 = Debug|Win32
+		{1EAB0C94-D246-48B0-8706-75214BF57C6F}.Release|Win32.ActiveCfg = Release|Win32
+		{1EAB0C94-D246-48B0-8706-75214BF57C6F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
